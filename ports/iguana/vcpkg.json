@@ -1,0 +1,20 @@
+{
+  "name": "iguana",
+  "version": "1.0.3",
+  "description": "universal serialization engine",
+  "homepage": "https://github.com/qicosmos/iguana",
+  "license": "Apache-2.0",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    },
+    {
+      "name": "catch2"
+    }
+  ]
+}

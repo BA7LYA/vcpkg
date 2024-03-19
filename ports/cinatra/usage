@@ -1,0 +1,4 @@
+cinatra provides CMake targets:
+
+    find_package(cinatra CONFIG REQUIRED)
+    target_link_libraries(main PRIVATE cinatra)
