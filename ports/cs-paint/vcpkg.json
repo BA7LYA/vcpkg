@@ -1,0 +1,27 @@
+{
+  "name": "cs-paint",
+  "version": "1.0.1",
+  "description": "Vulkan rendering library for graphics and text",
+  "homepage": "https://github.com/copperspice/cs_paint",
+  "license": "BSD-2-Clause",
+  "dependencies": [
+    {
+      "name": "vcpkg-cmake",
+      "host": true
+    },
+    {
+      "name": "vcpkg-cmake-config",
+      "host": true
+    },
+    {
+      "name": "pkgconf",
+      "host": true
+    },
+    {
+      "name": "vulkan"
+    },
+    {
+      "name": "catch2"
+    }
+  ]
+}
